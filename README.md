@@ -7,7 +7,12 @@ I'm an aspiring backend developer passionate about building robust and scalable 
 
 - **Backend Development:** Django, Django Rest Framework, FastAPI
 - **Frontend Development:** HTML, CSS, JavaScript
-- **Others:** Redis, Docker 
+- **Others:** Redis, Docker
+
+## 🔭 Education
+
+- The University of Manchester - MSc Electrical and Computer Engineering (2020-2021)
+- Almaty University of Power Engineering and Telecomunnications - BSc Electrical Engineering (2015-2019)
 
 ## 💼 Work Experience
 
