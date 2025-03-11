@@ -1,8 +1,7 @@
 # Hi there, I'm Askarov Tamerlan! 👋
 
-
 Welcome to my GitHub profile!
-I'm an aspiring backend developer passionate about building robust and scalable web applications. My expertise includes Django, Django Rest Framework, and modern backend technologies and deployment strategies. I enjoy solving complex problems, writing efficient code, and continuously improving my skills in backend development.
+I'm an aspiring backend developer passionate about building robust and scalable web applications. My expertise includes Django, Django Rest Framework, FastAPI, modern backend technologies and deployment strategies. I enjoy solving complex problems, writing efficient code, and continuously improving my skills in backend development.
 
 ## 🔧 Technologies & Tools
 
@@ -12,17 +11,31 @@ I'm an aspiring backend developer passionate about building robust and scalable 
 
 ## 💼 Work Experience
 
-### Bootcamp trainee (Python Backend Developer)
-- Created the entire backend for a B2B startup focused on same-day construction material delivery.
-- Designed the database schema, developed the e-commerce checkout funnel, and integrated APIs.
-- Tech stack: Django, ReactJS.
+### Nfactorial School Bootcamp trainee (Python Backend Developer)
+- Mastered basic syntax, data types, functions, error handling, and debugging in Python.
+- Developed Python applications utilizing OOP principles for better code organization and scalability.
+- Designed and developed web applications using FastAPI, including routing, views, and templates.
+- Built and integrated RESTful APIs to enable communication between the client and server.
+- Implemented user authentication and authorization mechanisms for secure access to resources.
+- Developed full-fledged web applications using Django, including data modeling with Django ORM, views, URL routing, and template management.
+- Configured the Django Admin interface for content management, user permissions, and admin functionalities.
+- Implemented registration, login systems, session management, and custom permissions for different user roles.
+- Designed and maintained models with Django ORM, performed database migrations, and optimized queries for performance.
+
+### Bechtel-Enka Joint Venture | Field Electrical & Instrumentation Engineer/Electrical Supervisor
+- Project: FGP/WPMP-3GP/3GI (Tengiz field, Atyrau Region)
+- Client: TengizChevroil (TCO)- Chevron, Tengiz, Kazakhstan
+- Manages construction and electrical teams while executing commission of LV/MV electrical equipment and instrument devices (power cables, heat tracing cables,switchboards, distribution boards, transmitters, tubes).
+- Develops work packages (drawings, schemes, model shots) using CAD software.- Coordinates PTWs while covering PIC role functions and completed more 300+tasks(PLIs, WTGs,
+ DCNs, NPWs).
+- Collaborates with cross-functional teams including mechanical, piping, process, scaffolding, rope access teams to ensure constant progress of performed works.
+- Reports to the Construction Manager.
+- Promotes Safety & Health objectives as a constant value with design, planning training and safe work execution
 
 ## 🚀 Projects & Contributions
 
-- **Vendor Management System:** A Django project managing multiple stores with distinct permissions and roles.
-- **Real-Time Location Tracking:** Integrated Kafka with Django for real-time updates of delivery boy locations.
-- **Notification System:** Developed a system for order status change notifications using Celery and Redis.
-- **Desktop Application for Consultancy Form:** Built a CRUD application with rich text fields, file attachments, and search/filter functionalities.
+- **Booking Clone Platform:** A hotel booking platform replicating key features of Booking for a seamless user experience in hotel discovery, booking, and management.
+- **Expense Tracker Platform:** A web application to help users manage personal finances by tracking their expenses, with features for organization and analysis.
 
 ## 🌐 Connect with Me
 
