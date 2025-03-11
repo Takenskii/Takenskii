@@ -24,10 +24,10 @@ I'm an aspiring backend developer passionate about building robust and scalable 
 
 ### Bechtel-Enka Joint Venture | Field Electrical & Instrumentation Engineer/Electrical Supervisor
 - Project: FGP/WPMP-3GP/3GI (Tengiz field, Atyrau Region)
-- Client: TengizChevroil (TCO)- Chevron, Tengiz, Kazakhstan
-- Manages construction and electrical teams while executing commission of LV/MV electrical equipment and instrument devices (power cables, heat tracing cables,switchboards, distribution boards, transmitters, tubes).
-- Develops work packages (drawings, schemes, model shots) using CAD software.- Coordinates PTWs while covering PIC role functions and completed more 300+tasks(PLIs, WTGs,
- DCNs, NPWs).
+- Client: TengizChevroil (TCO)- Chevron
+- Manages construction and electrical teams while executing construction and commissioning activities of LV/MV electrical equipment and instrument devices (power cables, heat tracing cables,switchboards, distribution boards, transmitters, tubes).
+- Develops work packages (drawings, schemes, model shots) using CAD software.
+- Coordinates Permit to works while covering Person in Charge role functions and completed more 300+tasks(Punchlists, Work to goes, Design change notices, Non-Progressive workss).
 - Collaborates with cross-functional teams including mechanical, piping, process, scaffolding, rope access teams to ensure constant progress of performed works.
 - Reports to the Construction Manager.
 - Promotes Safety & Health objectives as a constant value with design, planning training and safe work execution
