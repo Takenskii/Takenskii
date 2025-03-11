@@ -1,16 +1,19 @@
-## Hi there 👋
+Welcome to my GitHub profile!
+I'm an aspiring backend developer passionate about building robust and scalable web applications. My expertise includes Django, Django Rest Framework, and modern backend technologies and deployment strategies. I enjoy solving complex problems, writing efficient code, and continuously improving my skills in backend development.
 
-<!--
-**Takenskii/Takenskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools
+Backend Development: Django, Django Rest Framework, FastAPI
+Frontend Development: HTML, CSS, JavaScript
+Others: Redis, Docker
+💼 Work Experience
+Bootcamp trainee (Python Backend Developer)
 
-Here are some ideas to get you started:
+🚀 Projects & Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 Connect with Me
+Gmail: Asskarovt22@gmail.com
+Leetcode: Tami777
+Feel free to reach out for collaborations, job opportunities, or just a tech chat!
+
+Thank you for visiting my GitHub profile! 😊
