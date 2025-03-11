@@ -12,7 +12,7 @@ I'm an aspiring backend developer passionate about building robust and scalable 
 ## 🔭 Education
 
 - The University of Manchester - MSc Electrical and Computer Engineering (2020-2021)
-- Almaty University of Power Engineering and Telecomunnications - BSc Electrical Engineering (2015-2019)
+- Almaty University of Power Engineering and Telecommunications - BSc Electrical Engineering (2015-2019)
 
 ## 💼 Work Experience
 
