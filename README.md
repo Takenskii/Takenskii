@@ -1,7 +1,7 @@
 # Hi there, I'm Tamerlan Askarov! 👋
 
 Welcome to my GitHub profile!
-I'm an aspiring backend developer passionate about building robust and scalable web applications. My expertise includes Django, Django and FastAPI frameworks, modern backend technologies and deployment strategies. I enjoy solving complex problems, writing efficient code, and continuously improving my skills in backend development.
+I'm an aspiring backend developer passionate about building robust and scalable web applications. My expertise includes Django, Django Rest Framework and FastAPI frameworks, modern backend technologies and deployment strategies. I enjoy solving complex problems, writing efficient code, and continuously improving my skills in backend development.
 
 ## 🔧 Technologies & Tools
 
